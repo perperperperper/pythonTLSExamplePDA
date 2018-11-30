@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # python ssl socket test client
 # The client sends user input to the server encrypted
-# Server and client keeps TCP/IP connection open until closed by client
+# Server and client keep TCP/IP connection open until closed by client
 # By Per Dahsltroem pda@ucl.dk
 # 30-11-2018
 
